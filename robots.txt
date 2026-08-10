@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: luchshie-kazino-s-momentalnymi-vy-dccff.github.io
+Sitemap: https://luchshie-kazino-s-momentalnymi-vy-dccff.github.io/sitemap.xml
